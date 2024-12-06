@@ -1,0 +1,176 @@
+@charset "UTF-8";
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #D576CE;
+}
+wrapper {
+    width: 1366px;
+    margin: 0 auto;
+    display: block;
+    background-color: #E599E2;
+}
+header {
+    height: 150px;
+    background-color: #BD5C23;
+}
+h1 {
+    text-align: center;
+    letter-spacing: 10px;
+    font-size: 120px;
+    color: #B8325D;
+    margin: 0px;
+    padding: 10px;
+    text-shadow: 10px 0px 8px #E4991C;
+}
+footer {
+    padding: 16px;
+    font-size: 12px;
+}
+nav   {
+    background-color: rgba(0,0,0,0.50);
+}
+nav ul {
+    padding: 0;
+    margin: 0;
+}
+ul a li {
+    display: inline-block;
+    padding: 16px 24px;
+    font-size: 20px;
+    color: rgba(0,0,0,1.00);
+    font-family: devonshire;
+    font-style: normal;
+    font-weight: 400;
+    border: medium solid transparent;
+}
+ul a li:hover {
+    background-color: rgba(184,114,15,0.77);
+    border: medium dashed rgba(0,0,0,0.50);
+}
+main {
+    height: 850px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 0px;
+}
+#homev {
+    background-image: url(url);
+    border-width: medium;
+}
+#homes {
+    height: 1000px;
+    background-image: url(Store.png);
+    background-size: contain;
+    margin-left: 88px;
+}
+#home {
+    background-image: url(flowersza.png);
+    height: 1000px;
+}
+#homep {
+    background-image: url(url);
+}
+#homec {
+    background-image: url(images/szaperforming.jpg);
+    height: 1000px;
+}
+#homem {
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#img {
+    background-image: url(sza-love.gif);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 50px;
+    height: 500px;
+    margin-left: 239px;
+    margin-top: -103px;
+}
+#tour {
+    margin: auto;
+    width: 400px;
+    text-align: center;
+}
+button {
+    border-radius: 20px;
+    padding: 10px;
+}
+.btn:hover {
+    color: #000000;
+    background-color: #9448AD;
+}
+button:hover {
+    background-color: #913AA4;
+}
+h3 , p{
+    color: #FFFFFF;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    padding: 6px;
+}
+#p1 {
+    font-family: alfa-slab-one;
+    font-style: normal;
+    font-weight: 400;
+}
+#email {
+    font-size: 55px;
+    padding: 10px;
+    border: thick double rgba(0,0,0,1.00);
+    text-align: center;
+    border-radius: 58px 58px 61px 61px;
+    margin-left: 352px;
+    color: rgba(0,0,0,1.00);
+}
+h4 {
+    font-size: 65px;
+    color: rgba(253,120,132,1.00);
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    text-align: center;
+    text-shadow: 0px 0px 31px rgba(255,255,255,1.00);
+}
+#iframe {
+    margin-top: 45px;
+    margin-left: 60px;
+}
+#news {
+    background-image: url(url);
+}
+h2 {
+    text-align: center;
+}
+#h22 {
+    font-weight: normal;
+    font-size: small;
+}
+img {
+    text-align: center;
+    padding-top: 0px;
+    padding-left: 0px;
+    width: 400px;
+    height: 560px;
+}
+.newsimg {
+    text-align: center;
+}
+.merch {
+    margin: 24px;
+    padding-top: 207px;
+}
+h2 {
+    text-shadow: 0px 0px 6px rgba(106,36,124,1.00);
+}
+.collage {
+    width: 455px;
+    height: 850px;
+}
+.blog {
+    margin-top: 87px;
+    padding-top: 0px;
+    padding-left: 40px;
+}
